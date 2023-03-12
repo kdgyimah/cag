@@ -7170,7 +7170,7 @@ margin-top: -4px !important;
 }
 
 .modeltheme-overlay-inner{
-  cursor: url('images/svg/close.svg'), pointer;
+  cursor: url('/images/svg/close.svg'), pointer;
 }
 
 
