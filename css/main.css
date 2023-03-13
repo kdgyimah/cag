@@ -13093,7 +13093,61 @@ nav #navbar ul li.mega3columns {
 }
 
 /* EXTRAS: 1ST MARCH, 2023 */
-.landing-text-container { margin-top: 180px }
+.landing-text_container { margin-top: 180px }
 @media (max-width: 767px) {
-  .landing-text-container { margin-top: 100px }
+  .landing-text_container { margin-top: 100px }
+}
+
+ul li {
+  margin-bottom: 2rem;
+}
+
+/* vc_custom-css */
+#modeltheme-main-head {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.text_container {
+  margin-top: 30px !important;
+  margin-bottom: 20px !important;
+}
+
+/* wp-custom-css */
+.logo img, .navbar-header .logo img {
+  max-width: 140px;
+}
+
+#navbar .mega3columns .cf-mega-menu.sub-menu {
+  left: 15px;
+  width: calc(140% - 30px);
+}
+
+/* vc_shortcodes-custom-css */
+.vc_custom_1559286674686 {
+  margin-bottom: 0px !important;
+  padding-top: 120px !important;
+  padding-bottom: 0px !important;
+  background-image: url(/ieo-bg.svg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.vc_custom_1521809706157 {
+  padding-top: 0px !important;
+}
+
+.vc_custom_1559286620402 {
+  margin-bottom: 0px !important;
+}
+
+.image-container {
+  margin-top: 0px !important;
+  margin-bottom: 20px !important;
+  padding-top: 50px !important;
+  padding-right: 50px !important;
+  padding-bottom: 50px !important;
+  padding-left: 50px !important;
+  border-radius: 5px !important;
 }
