@@ -13155,3 +13155,18 @@ ul li {
 section#intro {
   margin-bottom: 2rem;
 }
+
+@media (min-width: 992px) {
+  section#intro .row {
+    display: flex;
+    align-items: center;
+  }
+}
+
+section#intro .txt-ct {
+  margin: 2rem 0;
+}
+
+section#intro .img-ct {
+  margin: 2rem 0;
+}
