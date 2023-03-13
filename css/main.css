@@ -13151,3 +13151,7 @@ ul li {
   padding-left: 50px !important;
   border-radius: 5px !important;
 }
+
+section#intro {
+  margin-bottom: 2rem;
+}
