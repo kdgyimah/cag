@@ -1,0 +1,5 @@
+git remote set-url origin https://github.com/kdgyimah/cag.git
+git remote set-url origin https://gitlab.com/payplux/payplux-derivatives.git
+
+git remote add origin https://gitlab.com/payplux/payplux-derivatives.git
+git remote add origin https://github.com/kdgyimah/cag.git
